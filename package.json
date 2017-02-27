@@ -1,0 +1,24 @@
+{
+    "author": "dvvhostua@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "miniface",
+    "pebble": {
+        "displayName": "MiniFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "2c9e90ff-5932-4ebe-ac03-c50a7cdaddad",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
